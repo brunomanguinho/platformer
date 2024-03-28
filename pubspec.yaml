@@ -1,0 +1,16 @@
+name: platformer
+description: "A new Flutter Flame Game."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flame: ^1.16.0
+
+flutter:
+  assets:
+    - assets/images/
