@@ -14,3 +14,9 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+first steps
+https://github.com/flame-engine/flame/blob/main/doc/tutorials/bare_flame_game.md
+
+platformer
+https://github.com/flame-engine/flame/blob/main/doc/tutorials/platformer/step_1.md
